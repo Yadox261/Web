@@ -1,0 +1,62 @@
+que es bitboquet?= Plataforma de alojamiento de código que permite gestionar repositorios usando Git
+
+que es doker?=Plataforma para crear, desplegar y ejecutar aplicaciones en contenedores, facilitando la portabilidad y consistencia en diferentes entornos.
+
+que es GitHub y gitlab?=Ambas son plataformas para alojar repositorios de código con Git. GitHub es más popular para proyectos de código abierto; GitLab ofrece integración continua y gestión del ciclo de vida del desarrollo.
+
+que es html??=Lenguaje estándar para crear páginas web, que estructura el contenido mediante etiquetas.
+
+que es html semnatico?=Uso de etiquetas HTML que tienen significado claro, mejorando la accesibilidad y SEO.
+
+que es la diferencia entre código abierto y código libre?=Código abierto se refiere a software cuyo código está disponible públicamente; código libre enfatiza las libertades del usuario para usar, modificar y compartir el software.
+
+que significa doctype?=Instrucción que indica al navegador el tipo de documento HTML utilizado, ayudando en la renderización correcta.
+
+que significa la etiqueta meta?=Elementos en el <head> que proporcionan metadatos sobre la página, como descripción y palabras clave.
+
+que es NAB??=Puede referirse al National Australia Bank; proporciona más contexto si buscas algo específico en tecnología.
+
+que significa css?=Cascading Style Sheets; lenguaje para describir la presentación de documentos HTML o XML.
+
+que es un sector en css?=Un selector que elige elementos HTML a los que se aplicarán estilos específicos.
+
+que es Bitbucket?=Bitbucket es una plataforma de alojamiento de código en la nube que permite gestionar proyectos con Git y Mercurial. Ofrece repositorios públicos y privados, integración con Jira, y herramientas para colaboración y automatización en el desarrollo de software.
+
+quien y cuando creo git?=Linus Torvalds lo creó en 2005 para gestionar el desarrollo del núcleo Linux.
+
+que son las diferentes etiquetas del código
+
+truco para compatibilidad entre navegadores?? = normalice
+
+para que sirve el ower?
+
+que es footer y heater?=El footer es la sección inferior de una página web, que suele contener información como derechos de autor y enlaces importantes. El header es la parte superior, que generalmente incluye el título del sitio y la navegación principal.
+
+que significa rem?=rem es una unidad de medida en CSS que se basa en el tamaño de la fuente del elemento raíz (normalmente <html>). Se utiliza para establecer tamaños responsivos y escalables.
+
+como alinear texto en css??=Para alinear elementos en CSS, se pueden usar propiedades como text-align para texto, margin para centrar bloques, y flexbox o grid para diseños más complejos.
+
+que es una pseudo clase en css?=Una pseudo-clase es una palabra clave añadida a un selector que especifica un estado especial del elemento, como :hover para cuando el mouse está sobre un elemento.
+
+que significa lorem ipsum?=Lorem ipsum es un texto de marcador de posición utilizado en diseño gráfico y tipografía para simular contenido real sin distracciones.
+
+que sifgnifca normalice?=Normalice se refiere a ajustar o estandarizar estilos CSS para que los elementos tengan un comportamiento consistente en diferentes navegadores.
+
+que es el font weitgh?=Font-weight es una propiedad CSS que define el grosor del texto. Puede tomar valores como normal, bold o números que representan diferentes grosores.
+
+que es el display flex?=Display: flex es una propiedad CSS que activa el modelo de caja flexible, permitiendo a los elementos dentro de un contenedor alinearse y distribuirse dinámicamente.
+
+que es el span en css?=El span es un elemento HTML en línea utilizado para aplicar estilos a partes específicas de texto sin alterar el flujo del documento.
+
+diferencia entre pading y margin?=El padding es el espacio interno entre el contenido y el borde del elemento, mientras que el margin es el espacio externo entre el borde del elemento y otros elementos.
+
+Como se quita el estilo subrayado del estilo snap?=Para quitar el subrayado de un enlace, se utiliza la propiedad CSS text-decoration: none;.
+
+como se importa el googlefonts?=Para importar Google Fonts, se añade un enlace en la sección <head> del HTML, como: <link href="https://fonts.googleapis.com/css?family=Nombre+de+la+Fuente" rel="stylesheet">.
+
+como enlazar el archivo html con ccs???=Se enlaza un archivo CSS al HTML usando la etiqueta <link> en la sección <head>, por ejemplo: <link rel="stylesheet" href="estilos.css">.
+  
+como se añadieron los iconos vectorizados?=Los iconos vectorizados se pueden añadir usando bibliotecas como Font Awesome o SVG directamente en el HTML, o mediante CSS como fondo.
+
+que es el box model?=El box model describe cómo se calculan las dimensiones de los elementos en CSS, incluyendo contenido, padding, border y margin.
+
