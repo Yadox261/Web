@@ -5,29 +5,19 @@
     --primario: #ffc107;
     --secundario: #0097a7;
     --gris: #757575;
+    --grisclaro: #b6b6b6;
 }
 
 html{
     font-size: 62.5%;
+    font-family: 'Alegreya', sans-serif;
    
 }
 body{
     font-size: 16px;
-}
-body{
-    background-color: #04f929; 
+    background:linear-gradient(to top, var(--grisclaro) 0%, var(--blanco) 100%);/*es un degradado*/
 }
 
-@media (min-width: 468px){
-    body{
-        background-color: #ce09d1;
-    }
-}
-@media (min-width: 768px){
-    body{
-        background-color: #33a2ff;
-    }
-}
 .title{
     
     text-align: center;
@@ -35,10 +25,10 @@ body{
 .title span{
     font-size: 2rem;
     font-style: italic;
+    color:#8a00ca  ;
 }
 
 .navegador-principal{
-    background-color: var(--secundario);
     padding: 1rem;
     display: flex;
     justify-content: space-between;/*justify content para Filas*/
@@ -80,6 +70,51 @@ body{
     height: 25rem;
     display: flex;
     align-items: center;
-    justify-content: center;    
+    justify-content: center;   
+    height: 450px;
+    position: relative; 
+    
 }
-
+.contenido-hero{
+    color: white;
+    position: absolute;
+    background-color: rgba(0,0,0,.7); 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contenido-hero a{
+    color: #ffffff;
+   text-decoration: none; /* Quita el subrayado */
+   font-size: 2rem;
+   border: 2px solid #ffffff;
+   padding: 1rem 2rem;
+   background-color: var(--secundario);
+    
+}
+.contenido-hero h1{
+    color:#ffffff 
+}
+.contenido-hero p{
+    color:#ffffff ;
+}
+h1{
+    font-size: 3.8rem;
+    text-align: center;
+}
+h2{
+    font-size: 2.8rem;
+    text-align: center;
+}
+h3{
+    font-size: 1.8rem;
+    text-align: center;
+}
+.ubicacion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
